@@ -1,6 +1,0 @@
-1 team :anvesh,saikumar,pavithra 
-2 team :chaithanya,akhil,sandeep 
-3 team :venkatesh,ashish,nihal 
-4 team :soujanya,vinay,sravan 
-
-5 team :ganesh,anurag
